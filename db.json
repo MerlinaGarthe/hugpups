@@ -48,9 +48,7 @@
   "testimonials": [
     {
       "id": 1,
-      "UserId": 1,
       "name": "John Doe",
-      "email": "john.doe@example.com",
       "content": "Buddy was amazing and very friendly! Would highly recommend.",
       "date": "2024-05-22"
     }
