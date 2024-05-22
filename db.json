@@ -36,7 +36,7 @@
       "temperament": "Confident"
     }
   ],
-  "booking": [
+  "booking": 
     {
       "id": 1,
       "userId": 1,
@@ -44,8 +44,8 @@
       "title": "2024-05-22",
       "notes": "Initial booking for Buddy"
     }
-  ],
-  "testimonials": [
+  ,
+  "testimonials": 
     {
       "id": 1,
       "UserId": 1,
@@ -54,12 +54,12 @@
       "content": "Buddy was amazing and very friendly! Would highly recommend.",
       "date": "2024-05-22"
     }
-  ],
-  "users": [
+  ,
+  "users": 
     {
       "id": 1,
       "name": "John Doe",
       "email": "john.doe@example.com"
     }
-  ]
+  
 }
