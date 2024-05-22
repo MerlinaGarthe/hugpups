@@ -1,0 +1,63 @@
+{
+  "dogs": [
+    {"id": 1,"title": "Buddy","age": 3,"breed": "Golden Retriever","temperament": "Friendly"},
+    {
+  "id": 2,
+  "title": "Max",
+  "age": 4,
+  "breed": "Labrador Retriever",
+  "temperament": "Calm"
+}
+,{
+  "id": 3,
+  "title": "Bella",
+  "age": 2,
+  "breed": "Poodle",
+  "temperament": "Playful"
+},
+{
+  "id": 4,
+  "title": "Charlie",
+  "age": 5,
+  "breed": "Beagle",
+  "temperament": "Curious"
+}, {
+  "id": 5,
+  "title": "Rocky",
+  "age": 5,
+  "breed": "Rottweiler",
+  "temperament": "Confident"
+}
+
+  ],
+  "booking": [
+    {
+    "id": 1,
+    "userId": 1,
+    "dogId": 1,
+    "title": "2024-05-22",
+    "notes": "Initial booking for Buddy"
+  },
+
+  ],
+  "testimonials": [
+    {
+  "id": 1,
+  "UserId":1,
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "content": "Buddy was amazing and very friendly! Would highly recommend.",
+  "date": "2024-05-22"
+  }
+
+  ],
+  "users": [
+  {
+  "id": 1,
+  "name": "John Doe",
+  "email": "john.doe@example.com"
+}
+
+
+  ]
+}
